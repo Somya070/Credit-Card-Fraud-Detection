@@ -67,3 +67,5 @@ credit-card-fraud-detection/
 
    streamlit run app.py
 
+## Live app demo:
+https://credit-card-fraud-detection-dlh7bfzjdw6pbrxrkiwfu2.streamlit.app/
